@@ -1,6 +1,6 @@
 <h2>Author : Babu Balasubramanian</h2> <br>
 <h4>Objective : We want to use statistical techniques to come up with metrics with which can be used to gauge the winning team in the upcoming La Liga cup (Football tournament)</h4>
-Domain: Sports<br><br>
+Domain: Sports<br>
 <h4>Finding answers to the following questions : </h4>
 1. Read the data set and replace dashes with 0 to make sure you can perform arithmetic operations on the data.<br>
 2. Print all the teams which have started playing between 1930-1980.<br>
@@ -10,3 +10,6 @@ Domain: Sports<br><br>
 6. Create a new column with the name “Winning Percent” and append it to the data set.<br>
 7. Print the top 5 teams which have the highest Winning percentage.<br>
 8. Group teams based on their “Best position” and print the sum of their points for all positions.<br>
+
+<h4>Following are the observations and task performed on this project : </h4><br>
+The dataset consist of information regarding la-linga Cup like team, Points, GamesPlayed, GamesWon, GamesLost, GF, GA etc.
