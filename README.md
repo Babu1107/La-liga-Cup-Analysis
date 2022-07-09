@@ -11,7 +11,11 @@ Domain: Sports<br>
 7. Print the top 5 teams which have the highest Winning percentage.<br>
 8. Group teams based on their “Best position” and print the sum of their points for all positions.<br>
 
-<h4>Following are the observations and task performed on this project : </h4><br>
-The dataset consist of information regarding la-linga Cup like team, Points, GamesPlayed, GamesWon, GamesLost, GF, GA etc.
-The La-liga dataset consist of 61 Rows and 20 Columns
-Casting the datatypes for the columns like (Debut, Points, GoalsFor, GoalsAgainst, GamesWon, GamesPlayed, BestPosition) to perform arithmetic operations
+<h4>Following are the observations and task performed on this project : </h4>
+•	The dataset consist of information regarding la-linga Cup like team, Points, GamesPlayed, GamesWon, GamesLost, GF, GA etc.<br>
+•	The La-liga dataset consist of 61 Rows and 20 Columns<br>
+•	Replaced dashes with 0 to perform arithmetic operations<br>
+•	Casted the datatypes for the columns like (Debut, Points, GoalsFor, GoalsAgainst, GamesWon, GamesPlayed, BestPosition) to perform arithmetic operations<br>
+•	Created new column 'Winning Percent' for more insights
+
+
