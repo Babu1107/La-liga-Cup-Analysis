@@ -27,5 +27,5 @@ Domain: Sports<br>
 5. Real Madrid has a max goal difference(2807) and Girona has a min goal difference(0).<br>
 6. Created a Winning Percent column and appended the % into the dataset. Real Madrid has more winning percentage of 59.63.<br>
 7. Top 5 Teams with highest winning percentage are Real Madrid, Barcelona, Atletico Madrid, Valencia and Athletic Bilbao<br>
-8. Best position 1 teams st stands first in highest sum of points of about 27933.<br>
+8. Best position 1 teams stands first in highest sum of points of about 27933.<br>
 
