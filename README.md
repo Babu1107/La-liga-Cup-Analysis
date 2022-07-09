@@ -13,3 +13,5 @@ Domain: Sports<br>
 
 <h4>Following are the observations and task performed on this project : </h4><br>
 The dataset consist of information regarding la-linga Cup like team, Points, GamesPlayed, GamesWon, GamesLost, GF, GA etc.
+The La-liga dataset consist of 61 Rows and 20 Columns
+Casting the datatypes for the columns like (Debut, Points, GoalsFor, GoalsAgainst, GamesWon, GamesPlayed, BestPosition) to perform arithmetic operations
