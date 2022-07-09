@@ -15,7 +15,7 @@ Domain: Sports<br>
 •	The dataset consist of information regarding la-linga Cup like team, Points, GamesPlayed, GamesWon, GamesLost, GF, GA etc.<br>
 •	The La-liga dataset consist of 61 Rows and 20 Columns<br>
 •	Replaced dashes with 0 to perform arithmetic operations<br>
-•	Casted the datatypes for the columns like (Debut, Points, GoalsFor, GoalsAgainst, GamesWon, GamesPlayed, BestPosition) to perform arithmetic operations<br>
+•	Casted the datatypes for the columns like (Debut, Points, GoalsFor, GoalsAgainst, GamesWon, GamesPlayed, BestPosition) to perform &nbsp;&nbsp;&nbsp;arithmetic operations<br>
 •	Created new column 'Winning Percent' for more insights
 
 
