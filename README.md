@@ -21,11 +21,11 @@ Domain: Sports<br>
 
 <h4>Analysis Result : </h4>
 1. Replaced dashes with 0 <br>
-2. 37 teams which have started playing between 1930-1980.
-3. Real Madrid, Barcelona, Atletico Madrid, Valencia and Athletic Bilbao are the teams which came Top 5 in terms of points.
-4. Created a function Goal_diff_count and return all the teams with their Goal Differences.
-5. Real Madrid has a max goal difference(2807) and Girona has a min goal difference(0)
-6. Created a Winning Percent column and appended the % into the dataset. Real Madrid has more winning percentage of 59.63
-7. Top 5 Teams with highest winning percentage are Real Madrid, Barcelona, Atletico Madrid, Valencia and Athletic Bilbao	
-8
+2. 37 teams which have started playing between 1930-1980.<br>
+3. Real Madrid, Barcelona, Atletico Madrid, Valencia and Athletic Bilbao are the teams which came Top 5 in terms of points.<br>
+4. Created a function Goal_diff_count and return all the teams with their Goal Differences.<br>
+5. Real Madrid has a max goal difference(2807) and Girona has a min goal difference(0).<br>
+6. Created a Winning Percent column and appended the % into the dataset. Real Madrid has more winning percentage of 59.63.<br>
+7. Top 5 Teams with highest winning percentage are Real Madrid, Barcelona, Atletico Madrid, Valencia and Athletic Bilbao<br>
+8. Best position 1 teams has the first highest sum of points of 27933.<br>
 
